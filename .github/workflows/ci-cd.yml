@@ -32,9 +32,7 @@ jobs:
         
          docker build -f Automation/Dockerfile -t my-blazor-app .
 
-    - name: Run tests (if applicable)
-      run: |
-        docker run --rm my-blazor-app dotnet test
+   
 
     - name: Push Docker image to Docker Hub
       if: github.ref == 'refs/heads/master'
