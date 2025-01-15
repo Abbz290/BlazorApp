@@ -38,9 +38,9 @@ jobs:
     - name: Push Docker image to Docker Hub
       if: github.ref == 'refs/heads/master'
       run: |
-        docker login -u ${{ secrets.DOCKER_USERNAME }} -p ${{ secrets.DOCKER_PASSWORD }}
-        docker tag my-blazor-app yourusername/my-blazor-app:latest
-        docker push yourusername/my-blazor-app:latest
+        docker login -u ${{ secrets.DOCKER_USERNAME }} -p ${{ secrets.DOCKER_TOKEN }}
+        docker tag my-blazor-app Abbz290/my-blazor-app:latest
+        docker push Abbz290/my-blazor-app:latest
 
   deploy:
     runs-on: ubuntu-latest
