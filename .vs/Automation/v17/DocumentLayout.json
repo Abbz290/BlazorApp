@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abbz2\\source\\repos\\Automation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F1B56F-BFA7-4600-8F2A-09A6C6009E0F}|Automation\\Automation.csproj|c:\\users\\abbz2\\source\\repos\\automation\\automation\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{E7F1B56F-BFA7-4600-8F2A-09A6C6009E0F}|Automation\\Automation.csproj|solutionrelative:automation\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F1B56F-BFA7-4600-8F2A-09A6C6009E0F}|Automation\\Automation.csproj|c:\\users\\abbz2\\source\\repos\\automation\\automation\\.gitignore||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E7F1B56F-BFA7-4600-8F2A-09A6C6009E0F}|Automation\\Automation.csproj|solutionrelative:automation\\.gitignore||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F1B56F-BFA7-4600-8F2A-09A6C6009E0F}|Automation\\Automation.csproj|c:\\users\\abbz2\\source\\repos\\automation\\automation\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E7F1B56F-BFA7-4600-8F2A-09A6C6009E0F}|Automation\\Automation.csproj|solutionrelative:automation\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\abbz2\\source\\repos\\Automation\\Automation\\.gitignore",
+              "RelativeDocumentMoniker": "Automation\\.gitignore",
+              "ToolTip": "C:\\Users\\abbz2\\source\\repos\\Automation\\Automation\\.gitignore",
+              "RelativeToolTip": "Automation\\.gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-15T10:09:58.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\abbz2\\source\\repos\\Automation\\Automation\\.gitignore",
+              "RelativeDocumentMoniker": "Automation\\.gitignore",
+              "ToolTip": "C:\\Users\\abbz2\\source\\repos\\Automation\\Automation\\.gitignore",
+              "RelativeToolTip": "Automation\\.gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-15T10:09:46.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\abbz2\\source\\repos\\Automation\\Automation\\Dockerfile",
+              "RelativeDocumentMoniker": "Automation\\Dockerfile",
+              "ToolTip": "C:\\Users\\abbz2\\source\\repos\\Automation\\Automation\\Dockerfile",
+              "RelativeToolTip": "Automation\\Dockerfile",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAiwAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-15T10:02:33.124Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
