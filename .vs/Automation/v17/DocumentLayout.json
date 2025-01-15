@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\abbz2\\source\\repos\\Automation\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E7F1B56F-BFA7-4600-8F2A-09A6C6009E0F}|Automation\\Automation.csproj|C:\\Users\\abbz2\\source\\repos\\Automation\\automation\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E7F1B56F-BFA7-4600-8F2A-09A6C6009E0F}|Automation\\Automation.csproj|solutionrelative:automation\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E7F1B56F-BFA7-4600-8F2A-09A6C6009E0F}|Automation\\Automation.csproj|c:\\users\\abbz2\\source\\repos\\automation\\automation\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{E7F1B56F-BFA7-4600-8F2A-09A6C6009E0F}|Automation\\Automation.csproj|solutionrelative:automation\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7F1B56F-BFA7-4600-8F2A-09A6C6009E0F}|Automation\\Automation.csproj|c:\\users\\abbz2\\source\\repos\\automation\\automation\\.gitignore||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{E7F1B56F-BFA7-4600-8F2A-09A6C6009E0F}|Automation\\Automation.csproj|C:\\Users\\abbz2\\source\\repos\\Automation\\automation\\.gitignore||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{E7F1B56F-BFA7-4600-8F2A-09A6C6009E0F}|Automation\\Automation.csproj|solutionrelative:automation\\.gitignore||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7F1B56F-BFA7-4600-8F2A-09A6C6009E0F}|Automation\\Automation.csproj|c:\\users\\abbz2\\source\\repos\\automation\\automation\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{E7F1B56F-BFA7-4600-8F2A-09A6C6009E0F}|Automation\\Automation.csproj|solutionrelative:automation\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +30,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\abbz2\\source\\repos\\Automation\\Automation\\.gitignore",
               "RelativeDocumentMoniker": "Automation\\.gitignore",
@@ -43,7 +43,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\abbz2\\source\\repos\\Automation\\Automation\\.gitignore",
               "RelativeDocumentMoniker": "Automation\\.gitignore",
@@ -51,18 +51,17 @@
               "RelativeToolTip": "Automation\\.gitignore",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-01-15T10:09:46.637Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T10:09:46.637Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\Users\\abbz2\\source\\repos\\Automation\\Automation\\Dockerfile",
               "RelativeDocumentMoniker": "Automation\\Dockerfile",
               "ToolTip": "C:\\Users\\abbz2\\source\\repos\\Automation\\Automation\\Dockerfile",
               "RelativeToolTip": "Automation\\Dockerfile",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAiwAwAAAAiAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-01-15T10:02:33.124Z",
               "EditorCaption": ""
