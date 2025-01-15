@@ -38,8 +38,8 @@ jobs:
       if: github.ref == 'refs/heads/master'
       run: |
         docker login -u ${{ secrets.DOCKER_USERNAME }} -p ${{ secrets.DOCKER_TOKEN }}
-        docker tag my-blazor-app Abbz290/my-blazor-app:latest
-        docker push Abbz290/my-blazor-app:latest
+        docker tag my-blazor-app Abbz290/blazorapp:latest
+        docker push Abbz290/blazorapp:latest
 
   deploy:
     runs-on: ubuntu-latest
