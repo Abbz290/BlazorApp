@@ -30,6 +30,7 @@ jobs:
     - name: Build Docker image
       run: |
         pwd
+        ls
          docker build -f ./BlazorApp/Automation/Dockerfile -t my-blazor-app .
 
     - name: Run tests (if applicable)
