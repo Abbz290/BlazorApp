@@ -11,5 +11,5 @@ WORKDIR /usr/share/nginx/html
 
 # Copy the published app from the build stage
 COPY --from=build /out/wwwroot .
-EXPOSE 5000
+EXPOSE 8080
 CMD ["nginx", "-g", "daemon off;"]
