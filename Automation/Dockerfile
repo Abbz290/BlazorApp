@@ -11,5 +11,3 @@ WORKDIR /usr/share/nginx/html
 COPY --from=build /out/wwwroot .
 EXPOSE 80
 CMD ["nginx", "-g", "daemon off;"]
- Build stage
- Use a base image
