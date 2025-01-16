@@ -9,5 +9,5 @@ RUN dotnet publish -c Release -o /out
 FROM nginx:alpine
 WORKDIR /usr/share/nginx/html
 COPY --from=build /out/wwwroot .
-EXPOSE 80
+EXPOSE 5000
 CMD ["nginx", "-g", "daemon off;"]
