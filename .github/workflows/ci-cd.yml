@@ -48,8 +48,7 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v4
 
-    - name: Deploy to server (your server setup)
+    - name: Deploy to localhost
       run: |
-        # Use SSH to deploy to your server or any cloud service
-        ssh -o StrictHostKeyChecking=no -i ${{ secrets.SSH_PRIVATE_KEY }} user@yourserver 'docker pull abbz290/blazorapp:latest && docker run -d -p 80:80 abbz290/blazorapp:latest'
+        ssh -o "StrictHostKeyChecking=no" user@localhost -p 22 "deploy commands"
 
