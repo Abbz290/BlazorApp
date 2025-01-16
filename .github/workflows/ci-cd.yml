@@ -41,14 +41,5 @@ jobs:
         docker tag my-blazor-app abbz290/blazorapp:latest
         docker push abbz290/blazorapp:latest
 
-  deploy:
-    runs-on: ubuntu-latest
-    needs: build
-    steps:
-    - name: Checkout code
-      uses: actions/checkout@v4
-
-    - name: Deploy to localhost
-      run: |
-        ssh -o "StrictHostKeyChecking=no" user@localhost -p 22 "deploy commands"
+  
 
