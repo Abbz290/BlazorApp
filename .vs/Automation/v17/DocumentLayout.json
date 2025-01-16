@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{E7F1B56F-BFA7-4600-8F2A-09A6C6009E0F}|Automation\\Automation.csproj|solutionrelative:automation\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E7F1B56F-BFA7-4600-8F2A-09A6C6009E0F}|Automation\\Automation.csproj|C:\\Users\\abbz2\\source\\repos\\Automation\\automation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7F1B56F-BFA7-4600-8F2A-09A6C6009E0F}|Automation\\Automation.csproj|solutionrelative:automation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E7F1B56F-BFA7-4600-8F2A-09A6C6009E0F}|Automation\\Automation.csproj|C:\\Users\\abbz2\\source\\repos\\Automation\\automation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{E7F1B56F-BFA7-4600-8F2A-09A6C6009E0F}|Automation\\Automation.csproj|solutionrelative:automation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E7F1B56F-BFA7-4600-8F2A-09A6C6009E0F}|Automation\\Automation.csproj|C:\\Users\\abbz2\\source\\repos\\Automation\\automation\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{E7F1B56F-BFA7-4600-8F2A-09A6C6009E0F}|Automation\\Automation.csproj|solutionrelative:automation\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7F1B56F-BFA7-4600-8F2A-09A6C6009E0F}|Automation\\Automation.csproj|C:\\Users\\abbz2\\source\\repos\\Automation\\automation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7F1B56F-BFA7-4600-8F2A-09A6C6009E0F}|Automation\\Automation.csproj|solutionrelative:automation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E7F1B56F-BFA7-4600-8F2A-09A6C6009E0F}|Automation\\Automation.csproj|C:\\Users\\abbz2\\source\\repos\\Automation\\automation\\.gitignore||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -34,26 +34,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Automation",
-              "DocumentMoniker": "C:\\Users\\abbz2\\source\\repos\\Automation\\Automation\\Automation.csproj",
-              "RelativeDocumentMoniker": "Automation\\Automation.csproj",
-              "ToolTip": "C:\\Users\\abbz2\\source\\repos\\Automation\\Automation\\Automation.csproj",
-              "RelativeToolTip": "Automation\\Automation.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-16T08:41:00.784Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\abbz2\\source\\repos\\Automation\\Automation\\appsettings.json",
               "RelativeDocumentMoniker": "Automation\\appsettings.json",
@@ -65,13 +58,37 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abbz2\\source\\repos\\Automation\\Automation\\Program.cs",
+              "RelativeDocumentMoniker": "Automation\\Program.cs",
+              "ToolTip": "C:\\Users\\abbz2\\source\\repos\\Automation\\Automation\\Program.cs",
+              "RelativeToolTip": "Automation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T13:30:16.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Automation",
+              "DocumentMoniker": "C:\\Users\\abbz2\\source\\repos\\Automation\\Automation\\Automation.csproj",
+              "RelativeDocumentMoniker": "Automation\\Automation.csproj",
+              "ToolTip": "C:\\Users\\abbz2\\source\\repos\\Automation\\Automation\\Automation.csproj",
+              "RelativeToolTip": "Automation\\Automation.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-16T08:41:00.784Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\Users\\abbz2\\source\\repos\\Automation\\Automation\\Dockerfile",
               "RelativeDocumentMoniker": "Automation\\Dockerfile",
               "ToolTip": "C:\\Users\\abbz2\\source\\repos\\Automation\\Automation\\Dockerfile",
               "RelativeToolTip": "Automation\\Dockerfile",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-01-15T13:30:17.423Z",
               "EditorCaption": ""
@@ -79,18 +96,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\abbz2\\source\\repos\\Automation\\Automation\\Program.cs",
-              "RelativeDocumentMoniker": "Automation\\Program.cs",
-              "ToolTip": "C:\\Users\\abbz2\\source\\repos\\Automation\\Automation\\Program.cs",
-              "RelativeToolTip": "Automation\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T13:30:16.62Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\abbz2\\source\\repos\\Automation\\Automation\\.gitignore",
               "RelativeDocumentMoniker": "Automation\\.gitignore",

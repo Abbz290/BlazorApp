@@ -8,8 +8,12 @@ RUN dotnet publish -c Release -o /out
 # Runtime stage
 FROM nginx:alpine
 WORKDIR /usr/share/nginx/html
+
+# Copy the published app from the build stage
 COPY --from=build /out/wwwroot .
-EXPOSE 80
+
+# Expose port 80 (the default port for nginx)
+EXPOSE 5000
+
+# Run nginx in the foreground
 CMD ["nginx", "-g", "daemon off;"]
- Build stage
- Use a base image
