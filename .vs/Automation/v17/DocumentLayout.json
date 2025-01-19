@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\abbz2\\source\\repos\\Automation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E7F1B56F-BFA7-4600-8F2A-09A6C6009E0F}|Automation\\Automation.csproj|c:\\users\\abbz2\\source\\repos\\automation\\automation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E7F1B56F-BFA7-4600-8F2A-09A6C6009E0F}|Automation\\Automation.csproj|c:\\users\\abbz2\\source\\repos\\automation\\automation\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7F1B56F-BFA7-4600-8F2A-09A6C6009E0F}|Automation\\Automation.csproj|solutionrelative:automation\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F1B56F-BFA7-4600-8F2A-09A6C6009E0F}|Automation\\Automation.csproj|C:\\Users\\abbz2\\source\\repos\\Automation\\automation\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7F1B56F-BFA7-4600-8F2A-09A6C6009E0F}|Automation\\Automation.csproj|solutionrelative:automation\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F1B56F-BFA7-4600-8F2A-09A6C6009E0F}|Automation\\Automation.csproj|C:\\Users\\abbz2\\source\\repos\\Automation\\automation\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E7F1B56F-BFA7-4600-8F2A-09A6C6009E0F}|Automation\\Automation.csproj|solutionrelative:automation\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F1B56F-BFA7-4600-8F2A-09A6C6009E0F}|Automation\\Automation.csproj|C:\\Users\\abbz2\\source\\repos\\Automation\\automation\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7F1B56F-BFA7-4600-8F2A-09A6C6009E0F}|Automation\\Automation.csproj|solutionrelative:automation\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F1B56F-BFA7-4600-8F2A-09A6C6009E0F}|Automation\\Automation.csproj|C:\\Users\\abbz2\\source\\repos\\Automation\\automation\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7F1B56F-BFA7-4600-8F2A-09A6C6009E0F}|Automation\\Automation.csproj|solutionrelative:automation\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F1B56F-BFA7-4600-8F2A-09A6C6009E0F}|Automation\\Automation.csproj|C:\\Users\\abbz2\\source\\repos\\Automation\\automation\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7F1B56F-BFA7-4600-8F2A-09A6C6009E0F}|Automation\\Automation.csproj|solutionrelative:automation\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F1B56F-BFA7-4600-8F2A-09A6C6009E0F}|Automation\\Automation.csproj|C:\\Users\\abbz2\\source\\repos\\Automation\\automation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7F1B56F-BFA7-4600-8F2A-09A6C6009E0F}|Automation\\Automation.csproj|solutionrelative:automation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E7F1B56F-BFA7-4600-8F2A-09A6C6009E0F}|Automation\\Automation.csproj|C:\\Users\\abbz2\\source\\repos\\Automation\\automation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{E7F1B56F-BFA7-4600-8F2A-09A6C6009E0F}|Automation\\Automation.csproj|solutionrelative:automation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7F1B56F-BFA7-4600-8F2A-09A6C6009E0F}|Automation\\Automation.csproj|C:\\Users\\abbz2\\source\\repos\\Automation\\automation\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{E7F1B56F-BFA7-4600-8F2A-09A6C6009E0F}|Automation\\Automation.csproj|solutionrelative:automation\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E7F1B56F-BFA7-4600-8F2A-09A6C6009E0F}|Automation\\Automation.csproj|C:\\Users\\abbz2\\source\\repos\\Automation\\automation\\automation.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
@@ -34,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +62,68 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\abbz2\\source\\repos\\Automation\\Automation\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Automation\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\abbz2\\source\\repos\\Automation\\Automation\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Automation\\Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T14:05:52.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\abbz2\\source\\repos\\Automation\\Automation\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Automation\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\abbz2\\source\\repos\\Automation\\Automation\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Automation\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T14:05:39.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\abbz2\\source\\repos\\Automation\\Automation\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "Automation\\Components\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\abbz2\\source\\repos\\Automation\\Automation\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "Automation\\Components\\Pages\\Counter.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T13:32:32.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\abbz2\\source\\repos\\Automation\\Automation\\Components\\App.razor",
+              "RelativeDocumentMoniker": "Automation\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\abbz2\\source\\repos\\Automation\\Automation\\Components\\App.razor",
+              "RelativeToolTip": "Automation\\Components\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T13:32:21.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\abbz2\\source\\repos\\Automation\\Automation\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "Automation\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\abbz2\\source\\repos\\Automation\\Automation\\Components\\_Imports.razor",
+              "RelativeToolTip": "Automation\\Components\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T13:32:18.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\abbz2\\source\\repos\\Automation\\Automation\\appsettings.json",
               "RelativeDocumentMoniker": "Automation\\appsettings.json",
@@ -50,12 +131,11 @@
               "RelativeToolTip": "Automation\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-16T08:23:06.968Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T08:23:06.968Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\abbz2\\source\\repos\\Automation\\Automation\\Program.cs",
               "RelativeDocumentMoniker": "Automation\\Program.cs",
@@ -63,12 +143,11 @@
               "RelativeToolTip": "Automation\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T13:30:16.62Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T13:30:16.62Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Automation",
               "DocumentMoniker": "C:\\Users\\abbz2\\source\\repos\\Automation\\Automation\\Automation.csproj",
               "RelativeDocumentMoniker": "Automation\\Automation.csproj",
@@ -87,12 +166,11 @@
               "RelativeToolTip": "Automation\\Dockerfile",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-01-15T13:30:17.423Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T13:30:17.423Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\abbz2\\source\\repos\\Automation\\Automation\\.gitignore",
               "RelativeDocumentMoniker": "Automation\\.gitignore",
@@ -104,7 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\abbz2\\source\\repos\\Automation\\Automation\\.gitignore",
               "RelativeDocumentMoniker": "Automation\\.gitignore",
